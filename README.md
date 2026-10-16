@@ -223,8 +223,8 @@ To view and edit the dashboard locally, make sure you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO-NAME>.git
-   cd <YOUR-REPO-NAME>
+   git clone https://github.com/iamharshhhh/supply-chain-analytics-powerbi.git
+   cd supply-chain-analytics-powerbi
    ```
 
 2. **Verify repository contents**:
@@ -274,5 +274,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👤 Author & Acknowledgments
 
-- **Harsh Satpute** - [GitHub Profile](https://github.com/harshsatpute) • [Email](mailto:harshsatpute207@gmail.com)
+- **Harsh Satpute** - [GitHub Profile](https://github.com/iamharshhhh) • [Email](mailto:harshsatpute207@gmail.com)
 - Built with **Microsoft Power BI**, **DAX Studio**, and **Mermaid.js**.
