@@ -133,7 +133,7 @@ graph TD
 The high-performance data model implemented directly inside the Power BI tabular engine:
 
 <div align="center">
-  <img src="Images/data_model_schema.png" alt="Power BI Data Model - Multi-Fact Galaxy Schema" width="920"/>
+  <img src="Images/SupplyData.png" alt="Power BI Data Model - Multi-Fact Galaxy Schema" width="920"/>
   <p><i>Figure 1: Power BI Data Model View showcasing conformed dimensions, fact tables, dedicated calculation groups, and Field Parameters.</i></p>
 </div>
 
